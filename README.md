@@ -1,4 +1,4 @@
-# TACKPAR775](https://telegram.me/TACKPAR775)
+# https://telegram.me/TACKPAR775
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
