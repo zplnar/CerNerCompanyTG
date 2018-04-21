@@ -1,25 +1,9 @@
-# https://telegram.me/TACKPAR775
-
-**An advanced and powerful administration bot based on NEW TG-CLI
-
-
-* * *
-
-## Commands
-
-| Use help |
-|:--------|:------------|
-| [#!/]help | just send help in your group and get the commands |
-
-**You can use "#", "!", or "/" to begin all commands
-
-* * *
 
 # Installation
 
 **If use TACKPAR775 put your helper bot Username Without @ in bot.lua, line 
 2
-t
+
 ```sh
 # Let's install the bot.
 cd $HOME
@@ -45,13 +29,5 @@ OR
 cd $HOME && git clone https://github.com/BeyondTeam/TACKPAR775.git && cd TACKPAR775 && chmod +x beyond.sh && ./beyond.sh install && chmod 777 autobd.sh && screen ./autobd.sh
 ```
 
-* * *
 
-# Developers!
-
-[TACKPAR770](https://github.com/solid021) ([Telegram](https://telegram.me/TACKPAR770))
-
-### Our Telegram channel:
-
-[@BeyondTeam](https://telegram.me/BeyondTeam)
 
