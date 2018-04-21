@@ -1,8 +1,6 @@
 
 # Installation
 
-**If use TACKPAR775 put your helper bot Username Without @ in bot.lua, line 
-2
 
 ```sh
 # Let's install the bot.
